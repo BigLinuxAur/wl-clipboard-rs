@@ -1,0 +1,8 @@
+# makepkg
+/pkg/
+/src/
+/*.pkg.tar.*
+
+# source files
+/v*.tar.gz
+/wl-clipboard-rs/
